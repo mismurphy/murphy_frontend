@@ -1,0 +1,57 @@
+/* body {
+  background: #e0e5ec;
+  font-family: 'Poppins', sans-serif;
+}
+
+.btn-glass {
+  background: rgba(255, 255, 255, 0.2);
+  border: none;
+  border-radius: 12px;
+  box-shadow: 5px 5px 15px #a3b1c6, -5px -5px 15px #ffffff;
+  color: #333;
+  transition: all 0.3s ease;
+}
+
+.btn-glass:hover {
+  box-shadow: inset 5px 5px 15px #a3b1c6, inset -5px -5px 15px #ffffff;
+  transform: translateY(-2px);
+}
+
+.glass-input {
+  background: rgba(255, 255, 255, 0.25);
+  border-radius: 12px;
+  border: none;
+  box-shadow: inset 5px 5px 15px #a3b1c6, inset -5px -5px 15px #ffffff;
+  padding: 10px 15px;
+}
+
+.glass-table .rdt_Table {
+  background: rgba(255, 255, 255, 0.3);
+  border-radius: 15px;
+  box-shadow: 5px 5px 15px #a3b1c6, -5px -5px 15px #ffffff;
+  overflow: hidden;
+}
+
+.shadow-glass {
+  border-radius: 20px;
+  box-shadow: 10px 10px 30px #a3b1c6, -10px -10px 30px #ffffff;
+}
+
+.modal-glass {
+  backdrop-filter: blur(10px);
+}
+
+.bg-gradient {
+  background: linear-gradient(135deg, #6c63ff, #3f3d56);
+}
+
+.text-glow {
+  color: #3f3d56;
+  text-shadow: 0 0 8px #6c63ff;
+}
+
+.modern-tabs .nav-link.active {
+  background: linear-gradient(135deg, #6c63ff, #3f3d56);
+  color: #fff !important;
+  border-radius: 10px;
+} */

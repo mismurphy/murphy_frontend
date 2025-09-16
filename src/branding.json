@@ -1,0 +1,29 @@
+{
+  "brandName": "Murphy Lightings",
+  "title": "Murphy Lightings CRM",
+  "Docs": "https://codedthemes.gitbook.io/datta",
+  "changeLog": "https://codedthemes.gitbook.io/datta/changelog",
+  "company": {
+    "name": "Fairdeals",
+    "url": "https://Fairdeals.com", 
+    "support": "https://localhost:5173/",
+    "privacyPolicy": "https://localhost:5173",
+    "license": "https://localhost:5173",
+    "socialLink": {
+      "linkedin": "https://localhost:5173",
+      "twitter": "https://localhost:5173",
+      "instagram": "https://www.instagram.com/murphylightings/",
+      "facebook": "https://www.facebook.com/murphylightings",
+      "youtube": "https://www.youtube.com/@murphylightings",
+      "github": "https://github.com/murphylightings",
+      "dribble": "https://dribbble.com/murphylightings",
+      "discord": "https://discord.com/invite/murphylightings"
+    }
+  },
+  "logo": {
+    "main": "",
+    "logoIcon": "",
+    "logoFab": "",
+    "logoWatermark": ""
+  }
+}
