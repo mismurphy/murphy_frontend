@@ -7,6 +7,7 @@ import Loadable from 'components/Loadable';
 // render - chart pages
 // const ApexChart = Loadable(lazy(() => import('views/charts/ApexChart')));
 const FgNameCreate = Loadable(lazy(() => import('views/fg_master/fgmaster')));
+const FgAdditionalAttribute = Loadable(lazy(() => import('views/fg_master/fgAdditionalAttribute')));
 
 // render - map pages
 const GoogleMaps = Loadable(lazy(() => import('views/maps/GoogleMap')));
@@ -26,6 +27,10 @@ const MasterManagementRoutes = {
             {
               path: 'create',
               element: <FgNameCreate />
+            } ,
+             {
+              path: 'additional',
+              element: <FgAdditionalAttribute />
             }
           ]
         },

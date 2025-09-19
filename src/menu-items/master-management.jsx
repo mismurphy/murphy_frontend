@@ -16,6 +16,12 @@ const masterManagement = {
           title: 'FG Name Creation',
           type: 'item',
           url: '/fg-master/create'
+        },
+        {
+          id: 'fg-master',
+          title: 'FG addtional attributes',
+          type: 'item',
+          url: '/fg-master/additional'
         }
       ]
     },
